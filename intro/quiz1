@@ -1,0 +1,4 @@
+a = 7
+b = a/2
+puts b == (a-4)
+#the code outputs true
